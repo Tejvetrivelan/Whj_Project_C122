@@ -1,0 +1,10 @@
+body {
+    background-color: #54bb4c;
+
+background-image: linear-gradient(160deg, #54bb4c 10%, #94d6e9 90%); 
+}
+
+#title_button {
+    width: 255.5px;
+    height: 55px;
+}
